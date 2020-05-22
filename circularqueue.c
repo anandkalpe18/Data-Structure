@@ -19,6 +19,8 @@ void insert()
         printf("\nInserted = %d\n", element);
     }
 }
+
+# Delete function in circular queue
 int delete()
 {
     int element;
